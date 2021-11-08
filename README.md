@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EriunReyes
-- 👀 I’m interested in learning how to be a coder and help me in my future as an international relations major!
+- 👀 I’m interested in learning how to be a web developer!
 - 🌱 I’m currently learning coding plus Korean language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... contact me by enail: eriun1227@gmail.com
