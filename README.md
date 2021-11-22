@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EriunReyes
-- 👀 I’m interested in learning how to be a web developer!
-- 🌱 I’m currently learning coding plus Korean language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... contact me by enail: eriun1227@gmail.com
+- 👀  Web developer!
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on Google
+- 📫 How to reach me ... contact me by email: eriun1227@gmail.com
 
 <!---
 EriunReyes/EriunReyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
