@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EriunReyes
-- 👀  Web developer!
+- 👀 Full Stack Developer aiming to learn ML!
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me ... contact me by email: eriun1227@gmail.com
